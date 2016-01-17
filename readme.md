@@ -14,7 +14,7 @@ This repo serves both the data and the static files for simplicity.
 
 ## Next
 
-Go see the Hapi Backbone Marionette repo!
+Go see the [Hapi Backbone Marionette repo](https://github.com/adrianblynch/hapi-backbone-marionette)!
 
 ## Notes
 
